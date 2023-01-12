@@ -12,7 +12,7 @@
   <img align="right" alt="Jonatha-pic" height="150" style="border-radius:50px;" src="https://github.com/JonathaOliveira/Studying/blob/main/Project001/img/homeoffice.png">
 </div>
   
-  ##
+  ## ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCn5cMziWFL92gfprRFTbEww" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
