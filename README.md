@@ -1,15 +1,73 @@
-### Olá 👋 sou Jonatha Araujo Oliveira
+### Hey 👋, I'm Jonatha
 <hr>
-<div align="center">
-  <a href="https://github.com/JonathaOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathaOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathaOliveira&layout=compact&langs_count=7&theme=dark"/>
+
+[![Github](https://img.shields.io/github/followers/JonathaOliveira?label=Follow&style=social)](https://github.com/JonathaOliveira)
+
+Hello, I currently work with B2B integrations, because I like this job so much I am currently studying to improve and deepen myself with e-commerce, currently working on an API integration project to improve my knowledge...
+
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonathaOliveira&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JonathaOliveira&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jonatha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jonatha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jonatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Jonatha-pic" height="150" style="border-radius:50px;" src="https://github.com/JonathaOliveira/Studying/blob/main/Project001/img/homeoffice.png">
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonathaOliveira&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JonathaOliveira&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+<br/>
+
+<!-- Social button 1 -->
+<!-- Light Mode -->
+<div>
+<a href="https://discord.gg/HXmCeSH8jr#gh-light-mode-only">
+<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
+</a>
+<!-- Dark Mode -->
+<a href="https://discord.gg/HXmCeSH8jr#gh-dark-mode-only">
+<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
+</a>
+&nbsp;
+<!-- Social button 2 -->
+<!-- Light Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-light-mode-only">
+<img src="https://img.shields.io/twitter/follow/rick_staa?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+</a>
+<!-- Dark Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-dark-mode-only">
+<img src="https://img.shields.io/twitter/follow/rick_staa?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+</a>
+&nbsp;
+<!-- Social button 3 -->
+<!-- Light Mode -->
+<a href="https://stackshare.io/rickstaa/my-stack#gh-light-mode-only">
+<img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=3572A5#gh-light-mode-only" alt="Checkout my development stack" >
+</a>
+<!-- Dark Mode -->
+<a href="https://stackshare.io/rickstaa/my-stack#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=FFF#gh-dark-mode-only" alt="Checkout my development stack" >
+</a>
+&nbsp;
+<!-- Social button 4 -->
+<!-- Light Mode -->
+<a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/rickstaa#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
+
 </div>
   
   ## ##
